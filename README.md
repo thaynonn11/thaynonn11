@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do IT Developer Front-end 😁
+## Bem-vindo(a) ao perfil do IT Developer Front-end 😃
 
  <div>
    <a href="https://github.com/thaynonn11">
